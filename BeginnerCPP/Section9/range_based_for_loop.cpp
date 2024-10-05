@@ -8,6 +8,7 @@ int main(){
     int scores [] {100,90,97};
     for(int score : scores)
         cout << score << endl;
+        
     int scores [] {100,90,97};
     for(auto score : scores)
         cout << score << endl;    
