@@ -3,13 +3,6 @@ using namespace std;
 
 int main(){
     
-    int* p;
-    double* q;
-
-    cout << sizeof(p) << endl;
-    cout << sizeof(q) << endl;
-
-
-
+    int number{10};
     return 0;
 }
