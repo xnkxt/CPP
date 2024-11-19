@@ -23,8 +23,6 @@ public:
                     }else {
                     rv.push_back(j);
                     }
-                    // rv.push_back(i);
-                    // rv.push_back(j);
                 }
             }
         }
