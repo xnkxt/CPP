@@ -1,1 +1,4 @@
 CPP Codes 
+
+.gitignore
+*.exe
